@@ -30,4 +30,19 @@ header {
 
 .chevron {
   width: 2em;
+  cursor: pointer;
+}
+
+
+.circles {
+  position: absolute;
+  bottom: 2.5em;
+}
+
+.dot {
+  cursor: pointer;
+  width: 1em;
+  border-radius: 50%;
+  background-color: lightgrey;
+  margin-right: 10px;
 }
